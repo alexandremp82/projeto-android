@@ -51,7 +51,7 @@ header > h1{
     font-size: 3em;
     font-weight: normal;
     margin-bottom: 20px;
-    text-shadow: 10px 10px 0px(0, 0, 0, 0.267);
+    text-shadow: 2px 2px 0px rgba(0, 0, 0, 0.267);
 }
 header > p{
 
@@ -62,8 +62,8 @@ header > p{
     padding-right: 10px;
     padding-left: 10px;
     margin: auto; 
-    padding-bottom: 50px; 
-    text-shadow: 10px 10px 0px(0, 0, 0, 0.315);  
+    padding-bottom: 50px;
+    text-shadow: 2px 2px 0px rgba(0, 0, 0, 0.315);  
     
 }
 main{
